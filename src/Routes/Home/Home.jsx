@@ -1,9 +1,7 @@
-import { Route, Routes, Link } from "react-router-dom";
-import Home from "./Routes/Home/Home";
-import Navigation from "./Routes/Navigation/Navigation";
-import "./Components/Categories/Categories.scss";
+import Categories from "../../Components/Categories/Categories";
+import { Link } from "react-router-dom";
 
-const App = () => {
+const Home = () => {
   const categories = [
     {
       id: 1,
@@ -32,23 +30,12 @@ const App = () => {
     },
   ];
 
-  const Shop = () => {
-    return (
-      <div>
-        <h1>Shop</h1>
-        <Link to={"/"}>Home</Link>
-      </div>
-    );
-  };
-
   return (
-    <Routes>
-      <Route path="/" element={<Navigation />}>
-        <Route index element={<Home />} />
-        <Route path="shop" element={<Shop />} />
-      </Route>
-    </Routes>
+    <>
+      <Categories categories={categories} />
+      <Link to={"/shop"}>Shop</Link>
+    </>
   );
 };
 
-export default App;
+export default Home;
