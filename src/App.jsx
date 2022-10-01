@@ -2,6 +2,7 @@ import { Route, Routes, Link } from "react-router-dom";
 import Home from "./Routes/Home/Home";
 import Navigation from "./Routes/Navigation/Navigation";
 import "./Components/Categories/Categories.scss";
+import SignIn from "./Routes/SignIn/SignIn";
 
 const App = () => {
   const categories = [
@@ -46,6 +47,7 @@ const App = () => {
       <Route path="/" element={<Navigation />}>
         <Route index element={<Home />} />
         <Route path="shop" element={<Shop />} />
+        <Route path="signin" element={<SignIn />} />
       </Route>
     </Routes>
   );

@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd252beb-938f-41fa-a78c-5d7d9711923c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Routes/Home/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Routes/Navigation/Navigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/SignIn/SignIn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/firebase/firebase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Navigation/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Navigation/Navigation.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
       <workItem from="1664091244883" duration="169000" />
       <workItem from="1664091415245" duration="1428000" />
       <workItem from="1664153386343" duration="19000" />
-      <workItem from="1664599168552" duration="6867000" />
+      <workItem from="1664599168552" duration="11785000" />
     </task>
     <servers />
   </component>
