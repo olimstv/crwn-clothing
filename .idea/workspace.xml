@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd252beb-938f-41fa-a78c-5d7d9711923c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/SignInForm/SignInForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/SignInForm/SignInForm.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/Authentication/Authentication.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/Navigation/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Navigation/Navigation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/SignIn/SignIn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Authentication/Authentication.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/firebase/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/firebase/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SignInForm/SignInForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SignInForm/SignInForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SignUpForm/SignUpForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SignUpForm/SignUpForm.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes/Authentication/Authentication.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/Authentication/Authentication.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

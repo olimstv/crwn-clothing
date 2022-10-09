@@ -95,7 +95,7 @@ const SignUpForm = () => {
           required
         />
 
-        <Button type="submit" buttonType="google" children="Sign Up" />
+        <Button type="submit">Sign Up</Button>
       </form>
     </div>
   );
