@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd252beb-938f-41fa-a78c-5d7d9711923c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/SignUpForm/SignUpForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Button/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Button/Button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/FormInput/FormInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/FormInput/FormInput.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SignUpForm/SignUpForm.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Routes/SignIn/SignIn.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes/SignIn/SignIn.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/firebase/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/firebase/firebase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/SignUpForm/SignUpForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/SignUpForm/SignUpForm.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +72,8 @@
       <workItem from="1664091244883" duration="169000" />
       <workItem from="1664091415245" duration="1428000" />
       <workItem from="1664153386343" duration="19000" />
-      <workItem from="1664599168552" duration="21662000" />
+      <workItem from="1664599168552" duration="24653000" />
+      <workItem from="1665273780350" duration="3423000" />
     </task>
     <servers />
   </component>
